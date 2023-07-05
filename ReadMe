@@ -1,0 +1,47 @@
+# Spanish Learning GUI Application
+
+This is a graphical user interface (GUI) application built using Python and PyQt that helps users learn Spanish vocabulary and practice grammar exercises.
+
+## Features
+
+- Vocabulary Quiz: Test your knowledge of Spanish words and their English translations. The quiz presents random questions and provides instant feedback on your answers.
+
+- Grammar Exercises: Practice your understanding of Spanish grammar with interactive exercises. The exercises cover various topics such as verb conjugation, sentence formation, and more.
+
+## Prerequisites
+
+- Python 3.9 or above
+- PyQt6 library
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/spanish-learning-gui.git
+   ```
+
+2. Change to the project directory:
+   ```
+   cd spanish-learning-gui
+   ```
+
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. Run the application:
+   ```
+   python main.py
+   ```
+
+2. The main window of the application will appear, providing options to start the vocabulary quiz or grammar exercises.
+
+3. Select the desired option to begin learning and practicing Spanish.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or would like to add new features, please open an issue or submit a pull request.
+
